@@ -15,31 +15,22 @@ Flak Jacket / Scavenger / Ninja
 Tactical Mask / Gearhead / Spycraft
 
 0. Akimbo Magnums
--Muzzle:		
--Barrel:		  7.2 Extended
--Body:			  Swat 5mm Laser
+-Muzzle:		Sound Suppressor
+-Barrel:		6.4 Reinforced Heavy
+-Body:			Swat 5mm Laser
 -Underbarrel:	
--Magazine:		Vandal Speed Loader
--Handle:		  Dropshot Wrap
--Stock:			  Dual Wield
-
-0. Streetsweeper:
--Muzzle:		
--Barrel:		  13.3 Reinforced Heavy
--Body:			  Swat 5MM Laser Sight
--Underbarrel:	
--Magazine:		18 RND Stanag
--Handle:		  Speed Tape
--Stock:			  No Stock
+-Magazine:		Stanag 12 Rnd
+-Handle:		
+-Stock:			Dual Wield
 
 1. FFAR 1: 
--Muzzle: 		  Socom Eliminator
--Barrel: 		  19.5 Task Force
--Body: 			  Tiger Team Spotlight
--Underbarrel: Field Agent Grip
--Magazine: 		Salvo 44 RND Fast Mag	(NEU)
--Handle: 		  Airborne Elastic Wrap
--Stock: 		  Raider Stock
+-Muzzle: 		Suppressor
+-Barrel: 		19.5 Reinforced Heavy
+-Body: 			Tiger Team Spotlight
+-Underbarrel: 	Field Agent Grip
+-Magazine: 		Salvo 44 RND Fast Mag
+-Handle: 		Airborne Elastic Wrap
+-Stock: 		Raider Stock
 
 Stimshot / C4 / Field Mic
 
@@ -48,13 +39,13 @@ Flak Jacket / Scavenger / Ninja
 Gunfighter
 
 2. AK-47:
--Muzzle: 		  Gru Supressor
--Barrel:		  20 Spetsnaz
--Body:			  Tiger Team Spotlight
+-Muzzle: 		Supressor
+-Barrel:		20 Liberator
+-Body:			Tiger Team Spotlight
 -Underbarrel:	Spetsnaz Grip
 -Magazine:		VDV 50 RND Fast Mag
--Handle:		  GRU Elastic Wrap
--Stock:			  KGB Skeletal Stock
+-Handle:		GRU Elastic Wrap
+-Stock:			KGB Skeletal Stock
 
 Stimshot / C4 / Field Mic
 
@@ -63,14 +54,14 @@ Flak Jacket / Scavenger / Ninja
 Gunfighter
 
 3. XM 4
--Optic:			  Microflex LED
--Muzzle: 		  Suppressor	(NEU)
--Barrel:		  13.7 Ranger
--Body:			  Tiger Team Spotlight
+-Optic:			Microflex Led
+-Muzzle: 		Suppressor
+-Barrel:		13.7 Ranger
+-Body:			Tiger Team Spotlight
 -Underbarrel:	Field Agent Grip
 -Magazine:		Salvo 50 RND Fast Mag
--Handle:		  Airborne Elastic Wrap
--Stock:			  Raider Pad
+-Handle:		Airborne Elastic Wrap
+-Stock:			Raider Pad
 
 Stimshot / C4 / Field Mic
 
@@ -78,44 +69,13 @@ Flak Jacket / Scavenger / Ninja
 
 Gunfighter
 
-4. Krig 6
--Optic:			  Microflex LED
--Muzzle: 		  Socom Eliminator
--Barrel:		  19.7 Ranger
--Body:			  Tiger Team Spotlight
--Underbarrel:	Bruiser Grip 
--Magazine:		Stanag 50 RND
--Handle:		  Airborne Elastic Wrap
--Stock:			  Raider Stock
-
-Stimshot / C4 / Field Mic
-
-Flak Jacket / Scavenger / Ninja
-
-Gunfighter
-
-5. Mac-10
--Muzzle: 		  Agency Suppressor		
--Barrel:		  6.1 Reinforced Heavy
--Body:			  Tiger Team Spotlight
--Underbarrel:	Field Agent Grip
--Magazine:		Salvo 53 RND Fast Mag
--Handle:		  Airborne Elastic Wrap
--Stock:			  Raider Stock
-
-Stimshot / C4 / Field Mic
-
-Flak Jacket / Scavenger / Ninja
-
-Gunfighter
-
-6. MP-5
--Muzzle: 		  Agency Suppressor		
--Barrel:		  9.5 Task Force
+4. MP-5
+-Muzzle: 		Agency Suppressor		
+-Barrel:		9.5 Task Force
 -Body:			
 -Underbarrel:	Field Agent Grip
 -Magazine:		Salvo 40 RND Fast Mag
--Handle:		  Airborne Elastic Wrap
+-Handle:		Airborne Elastic Wrap
 -Stock:			
 
 Stimshot / C4 / Field Mic
@@ -125,14 +85,14 @@ Tactical Mask / Gearhead / Spycraft
 
 Perk Greed
 
-7.Bullfrog
+5. Bullfrog
 -Optic:			
--Muzzle: 		  GRU Suppressor
--Barrel:		  7.4 Task Force
+-Muzzle: 		GRU Suppressor
+-Barrel:		7.4 Task Force
 -Body:			
 -Underbarrel:	Spetsnaz Grip
 -Magazine:		VDV 85 RND Fast Mag
--Handle:		  GRU Elastic Wrap
+-Handle:		GRU Elastic Wrap
 -Stock:	
 
 Stimshot / C4 / Field Mic
@@ -142,14 +102,14 @@ Tactical Mask / Gearhead / Spycraft
 
 Perk Greed
 
-8. AK-74U
+6. AK-74U
 -Optic:			
--Muzzle: 		  KGB Eliminator
--Barrel:		  10.3 Task Force
+-Muzzle: 		GRU Suppressor
+-Barrel:		10.3 Task Force
 -Body:			
 -Underbarrel:	Spetsnaz Grip
 -Magazine:		VDV 50 RND Fast Mag
--Handle:		  GRU Elastic Wrap
+-Handle:		GRU Elastic Wrap
 -Stock:	
 
 Stimshot / C4 / Field Mic
@@ -159,15 +119,15 @@ Tactical Mask / Gearhead / Spycraft
 
 Perk Greed
 
-9. M16
--Optic:			  Millstop Reflex
--Muzzle: 		  Socom Eliminator
--Barrel:		  20.5 Task Force
--Body:			  Tiger Team Spotlight
+7. M16
+-Optic:			Millstop Reflex
+-Muzzle: 		Socom Eliminator
+-Barrel:		20.5 Task Force
+-Body:			Tiger Team Spotlight
 -Underbarrel:	Field Agent Foregrip
 -Magazine:		45 RND Mag
--Handle:		  Airborne Elastic Wrap
--Stock:			  Raider Pad
+-Handle:		Airborne Elastic Wrap
+-Stock:			Raider Pad
 
 Stimshot / C4 / Field Mic
 
@@ -175,15 +135,15 @@ Flak Jacket / Scavenger / Ninja
 
 Gunfighter
 
-10. DMR 14 
--Optic:			  Visiontech 2x
--Muzzle: 		  Socom Eliminator
--Barrel:		  20.8 Task Force
--Body:			  Tiger Team Spotlight
+8. DMR 14 
+-Optic:			Visiontech 2x
+-Muzzle: 		Agency Silencer
+-Barrel:		20.8 Task Force
+-Body:			Tiger Team Spotlight
 -Underbarrel:	Field Agent Grip
 -Magazine:		Salvo 35 RND Fast Mag
--Handle:		  Airborne Elastic Wrap
--Stock:			  Raider Stock 
+-Handle:		Airborne Elastic Wrap
+-Stock:			Raider Stock
 
 Stimshot / C4 / Field Mic
 
@@ -191,63 +151,14 @@ Flak Jacket / Scavenger / Ninja
 
 Gunfighter
 
-11. Carv.2
--Optic:
--Muzzle:		  Agency Silencer
--Barrel:		  22.5 Task Force
--Body:			
--Underbarrel:	Bruiser Grip
--Magazine:		66 RND Speed Mag
--Handle:		  Airborne Elastic Wrap
--Stock:			
-
-Stimshot / C4 / Field Mic
-
-Flak Jacket / Scavenger / Ninja
-Tactical Mask / Gearhead / Spycraft
-
-Perk Greed
-
-11. FARA
--Optic:			  Microflex LED
--Muzzle:		  Spetsnaz Compensator
--Barrel:		  19.5 Liberator
--Body:			  Tiger Team Spotlight
--Underbarrel:	Spetsnaz Speed Grip
--Magazine:		40 RND Magazine
--Handle:		  Serpent Wrap
--Stock:			  KGB Skeletal
-
-Stimshot / C4 / Field Mic
-
-Flak Jacket / Scavenger / Ninja
-
-Gunfighter
-
-12. LW Tundra
+9. LC10
 -Optic:			
--Muzzle:		
--Barrel:		  28.2 Tiger Team
--Body:			
--Underbarrel:	Bruiser Grip
--Magazine:		7 RND Mag
--Handle:		  Serpent Wrap
--Stock:			  Raider Pad
-
-Stimshot / C4 / Field Mic
-
-Flak Jacket / Scavenger / Ninja
-
-Gunfighter
-
-13. LC10
--Optic:			
--Muzzle: 		  Agency Suppressor
--Barrel:		  13.9 Task Force
+-Muzzle: 		Agency Suppressor
+-Barrel:		13.9 Task Force
 -Body:			
 -Underbarrel:	Field Agent Grip
 -Magazine:		Salvo 52 Rnd Fast Mag
--Handle:		  Airborne Elastic Wrap
+-Handle:		Airborne Elastic Wrap
 -Stock:	
 
 Stimshot / C4 / Field Mic
@@ -257,30 +168,15 @@ Tactical Mask / Gearhead / Spycraft
 
 Perk Greed
 
-14. QBZ
+10. Milano
 -Optic:			
--Muzzle: 		  Agency Suppressor
--Barrel:		  15.5 Takedown
+-Muzzle: 		Socom Eliminator
+-Barrel:		10.6 Task Force
 -Body:			
 -Underbarrel:	Field Agent Grip
--Magazine:		Salvo 50 RND Fast Mag
--Handle:		  Airborne Elastic Wrap
--Stock:	
-
-Stimshot / C4 / Field Mic
-
-Flak Jacket / Scavenger / Ninja
-Tactical Mask / Gearhead / Spycraft
-
-15. PPSH
--Optic:			
--Muzzle: 		  Spetsnaz Compensator
--Barrel:		  14.9 Reinforced Heavy
--Body:			
--Underbarrel:	Patrol Grip
--Magazine:		Spetsnaz 71 Rnd Drum
--Handle:		  Gru Elastic Wrap
--Stock:	
+-Magazine:		Salvo 55 RND Fast Mag
+-Handle:		Airborne Elastic Wrap
+-Stock:			
 
 Stimshot / C4 / Field Mic
 

@@ -21,13 +21,13 @@ Perk Greed
 -Barrel:		6.4 Reinforced Heavy
 -Body:			Swat 5mm Laser
 -Underbarrel:	
--Magazine:		Stanag 12 Rnd
+-Magazine:		Speed Reloader
 -Handle:		
 -Stock:			Dual Wield
 
 1. FFAR 1: 
--Muzzle: 		Suppressor
--Barrel: 		19.5 Reinforced Heavy
+-Muzzle: 		Agency Suppressor
+-Barrel: 		19.5 Task Force
 -Body: 			Tiger Team Spotlight
 -Underbarrel: 	Field Agent Grip
 -Magazine: 		Salvo 44 RND Fast Mag
@@ -42,7 +42,7 @@ Gunfighter
 
 2. AK-47:
 -Muzzle: 		Supressor
--Barrel:		20 Liberator
+-Barrel:		20 Spetznaz
 -Body:			Tiger Team Spotlight
 -Underbarrel:	Spetsnaz Grip
 -Magazine:		VDV 50 RND Fast Mag
@@ -74,18 +74,17 @@ Gunfighter
 4. MP-5
 -Muzzle: 		Agency Suppressor		
 -Barrel:		9.5 Task Force
--Body:			
+-Body:			Steady Aim Laser
 -Underbarrel:	Field Agent Grip
 -Magazine:		Salvo 40 RND Fast Mag
 -Handle:		Airborne Elastic Wrap
--Stock:			
+-Stock:			Raider Stock
 
 Stimshot / C4 / Field Mic
 
 Flak Jacket / Scavenger / Ninja
-Tactical Mask / Gearhead / Spycraft
 
-Perk Greed
+Gunfighter
 
 5. Bullfrog
 -Optic:			
@@ -106,7 +105,7 @@ Perk Greed
 
 6. AK-74U
 -Optic:			
--Muzzle: 		GRU Suppressor
+-Muzzle: 		KGB Eliminator
 -Barrel:		10.3 Task Force
 -Body:			
 -Underbarrel:	Spetsnaz Grip
@@ -172,7 +171,7 @@ Perk Greed
 
 10. Milano
 -Optic:			
--Muzzle: 		Socom Eliminator
+-Muzzle: 		Agency Suppressor
 -Barrel:		10.6 Task Force
 -Body:			
 -Underbarrel:	Field Agent Grip
@@ -218,3 +217,36 @@ Stimshot / C4 / Field Mic
 Flak Jacket / Scavenger / Ninja
 
 Gunfighter
+
+13. Krig 6
+-Optic:			Microflex LED
+-Muzzle: 		Suppressor
+-Barrel:		19.7 Takedown
+-Body:			Tiger Team Spotlight
+-Underbarrel:	Field Agent Grip
+-Magazine:		Stanag 50 RND
+-Handle:		Airborne Elastic Wrap
+-Stock:			Raider Stock
+
+Stimshot / C4 / Field Mic
+
+Flak Jacket / Scavenger / Ninja
+
+Gunfighter
+
+14. OTs 9
+-Optic:			
+-Muzzle: 		Gru Suppressor
+-Barrel:		8.1 Task Force
+-Body:			
+-Underbarrel:	Spetznaz Grip
+-Magazine:		VDV 32 RND Fast Mag
+-Handle:		Gru Elastic Wrap
+-Stock:			
+
+Stimshot / C4 / Field Mic
+
+Flak Jacket / Scavenger / Ninja
+Tactical Mask / Gearhead / Spycraft
+
+Perk Greed

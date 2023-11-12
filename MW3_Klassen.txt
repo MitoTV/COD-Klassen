@@ -1,0 +1,79 @@
+COD MW3 Klassen:
+
+Optic: Immer Personal Preference!!
+
+Muzzle:		
+Barrel:		
+Laser:		
+Optic:		
+Stock:		
+Rear:		
+Mag:		
+Ammo:		
+Under:		
+
+Renetti
+Stun Grenade / Stim
+Frag Grenade / Semtex
+Munition Box / ACS
+Infantry / CCT Comms
+Commando Gloves / Marksman
+Tactical Pads / Covert Sneakers
+Bone Conduction
+
+SVA 545
+Muzzle:		Komodo Heavy
+Barrel:		
+Laser:		
+Optic:		Mk.3 Reflector 
+Stock:		Makeev R11
+Rear:		Citadel
+Mag:		
+Ammo:		
+Under:		Chewk Angled
+
+DG-58
+Muzzle:		Casus Brake
+Barrel:		DG-58 LS18 Barrel
+Laser:		Mk.3 Reflector
+Optic:
+Comb:		FSS Last Stand Comb
+Stock:		
+Rear:		
+Mag:		
+Ammo:		
+Under:		FTAC Ripper 56
+
+Longbow
+Muzzle:		
+Barrel:		
+Laser:		FSS Ole-V Laser
+Optic:		
+Bolt:		SA-M Quickbolt
+Stock:		No Stock
+Rear:		Nought-Z3 Grip
+Mag:		
+Ammo:		
+Under:		XTEN Phantom-5 Handstop
+
+MCW
+Muzzle:		Casus Brake
+Barrel:		Second Line Mammoth Heavy
+Laser:		
+Optic:		Mk.3 Reflector
+Stock:		A90 Venom 
+Rear:		
+Mag:		
+Ammo:		
+Under:		Chewk Angled Grip
+
+Bas-B
+Muzzle:		SA Leveler 55
+Barrel:		Bruen Venom Long Barrel
+Laser:		
+Optic:		Mk.3 Reflector
+Stock:		
+Rear:		
+Mag:		30 Round
+Ammo:		
+Under:		Chewk Angled Grip
